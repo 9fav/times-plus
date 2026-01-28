@@ -1,11 +1,10 @@
 {
   "name": "计时器",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "url": "https://github.com/9fav/times-plus/releases/download/%E8%AE%A1%E6%97%B6%E5%99%A8%E7%AC%AC%E4%B8%80%E7%89%88/default.zip",
-  "changelog": "初始版本发布，包含基础功能。",
-  "release_date": "2026-01-28"
+  "changelog": "更新校验",
+  "release_date": "2026-01-28",
+  "sha256": "2eae5c07a2781485c02ba18af1360c6699ae7cdc5235f9feb48d5271ea2ad7de",
+  "filesize": 2822
 }
-
-
-
 
