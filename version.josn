@@ -1,7 +1,8 @@
 {
   "name": "计时器",
-  "version": "1.0.0",
-  "url": "https://your-download-host.com/MyFirstApp_v1.0.0.zip",
+  "version": "1.0.1",
+  "url": "https://github.com/9fav/times-plus/archive/refs/tags/%E8%AE%A1%E6%97%B6%E5%99%A8%E7%AC%AC%E4%B8%80%E7%89%88.zip",
   "changelog": "初始版本发布，包含基础功能。",
   "release_date": "2026-01-28"
 }
+
